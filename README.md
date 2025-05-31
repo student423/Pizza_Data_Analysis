@@ -1,4 +1,4 @@
-##🍕 Pizza Sales Dashboard (Excel + SQL)
+🍕 ##Pizza Sales Dashboard (Excel + SQL)
 
 This project provides a data-driven approach to analyzing pizza sales trends using SQL for structured data storage and Excel for visualization. 
 It offers insights into revenue, customer preferences, and order patterns through a well-designed dashboard.
